@@ -174,19 +174,25 @@ AI/ML-based early-warning and rainfall / flood-risk prediction prototype for Sma
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Snapshot
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dns-18&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph"/>
-</p>
+| | |
+|---|---|
+| Total contributions | **165** (Apr 10, 2024 – present) |
+| Current streak | **1 day** (Oct 27) |
+| Longest streak | **6 days** (Oct 7 – Oct 12, 2025) |
+
+See the full, always-up-to-date graph on my [GitHub profile](https://github.com/dns-18) — it is GitHub's own contribution graph, so it never depends on a third-party image service.
+
+> Note: the old activity-graph and trophy images were removed because their public Vercel deployments now return HTTP 402 (deployment paused), which is why they rendered as broken images. No data was lost — the numbers above are from the streak card that still renders.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Milestones in Progress
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dns-18&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
+- **6+ merged PRs** across AppScribe, ResumeIQ, and this profile repo
+- **YOLO + Pull Shark:** 2 profile PRs merged without review on Oct 29 — GitHub awards achievements in a batch queue, so they can take 24–72 hours to appear, even though the merges are already on main
+- **Next:** Quickdraw, Pair Extraordinaire (co-authored merged PR), Starstruck (16 stars on one repo)
 
 ---
 
