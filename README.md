@@ -1,6 +1,4 @@
-<a href="https://rachitsainii.io">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" style="height: 400px; width: 1000px">
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" style="height: 400px; width: 1000px">
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 
 <h3 align="center">
@@ -28,7 +26,8 @@
 - ⚛️ Currently focused on **React & Frontend Development**
 - 🌱 Exploring **Backend Development and Java**
 - 🧠 Practicing **Data Structures & Algorithms**
-- 🚀 Currently working on **[AppScribe](https://github.com/dns-18/AppScribe)**
+- 🚀 Currently building **reusable React UI components** and learning backend step by step (Express + HTTP milestones)
+- 🎯 Goal: land a merged open-source PR in JavaScript / TypeScript
 - 🤝 Open to collaborating on interesting projects
 - 💬 Ask me about **React, JavaScript, Frontend Development & UI**
 - 🌐 Check out my **[Portfolio](https://my-portfolio-dns-18.vercel.app/)**
@@ -108,7 +107,7 @@ A responsive e-commerce application with product browsing, search, categories, p
 
 A modern accommodation/booking focused web application with a responsive user interface.
 
-**Tech:** React • JavaScript • CSS
+**Tech:** React • Vite • Tailwind CSS
 
 <a href="https://github.com/dns-18/StayLuxe">View Project →</a>
 
@@ -120,13 +119,40 @@ A modern accommodation/booking focused web application with a responsive user in
 
 My personal developer portfolio showcasing my projects, skills and frontend work.
 
-**Tech:** React • JavaScript • CSS
+**Tech:** HTML • CSS • JavaScript • GSAP
 
 <a href="https://my-portfolio-dns-18.vercel.app/">View Portfolio →</a>
 
 </td>
 
 </tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 <a href="https://github.com/dns-18/ResumeIQ">ResumeIQ</a>
+
+AI resume analysis and career copilot with real Supabase login/signup and a redesigned post-login app.
+
+**Tech:** React • Vite • Supabase • Tailwind CSS
+
+<a href="https://resume-iq-dns.vercel.app/">View Live →</a>
+
+</td>
+
+<td width="50%">
+
+### 🌧️ <a href="https://github.com/dns-18/VarshaNetra">VarshaNetra</a>
+
+AI/ML-based early-warning and rainfall / flood-risk prediction prototype for Smart India Hackathon 2026.
+
+**Tech:** TypeScript • Python • AI/ML
+
+<a href="https://github.com/dns-18/VarshaNetra">View Project →</a>
+
+</td>
+</tr>
+
 </table>
 
 ---
