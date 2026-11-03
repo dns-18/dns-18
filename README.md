@@ -190,9 +190,10 @@ See the full, always-up-to-date graph on my [GitHub profile](https://github.com/
 
 ## 🏆 Milestones in Progress
 
-- **6+ merged PRs** across AppScribe, ResumeIQ, and this profile repo
-- **YOLO + Pull Shark:** 2 profile PRs merged without review on Oct 29 — GitHub awards achievements in a batch queue, so they can take 24–72 hours to appear, even though the merges are already on main
-- **Next:** Quickdraw, Pair Extraordinaire (co-authored merged PR), Starstruck (16 stars on one repo)
+- **8 merged PRs** across AppScribe, ResumeIQ, this profile repo, and DevFlow (external, merged by its maintainer)
+- **Achievements earned and visible on my profile:** Pull Shark and Quickdraw (verified on the Achievements tab on Nov 3)
+- **Open-source now:** DevFlow Swagger docs and CHT Core contact-type constant — the CHT PR is open and waiting on linking it to its issue, not on new code
+- **Next:** Pair Extraordinaire (co-authored merged PR), Starstruck (16 stars on one repo)
 
 ---
 
