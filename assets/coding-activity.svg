@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300" role="img" aria-label="Coding activity for dns-18">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="300" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="818" height="298" rx="15" fill="none" stroke="#30363d"/>
+  <text x="28" y="38" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#e6edf3">Coding Activity</text>
+  <text x="28" y="60" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8b949e">LeetCode &#183; CodeChef &#183; GitHub &#8212; checked 4 Nov 2026</text>
+  <line x1="28" y1="76" x2="792" y2="76" stroke="#30363d"/>
+  <!-- LeetCode -->
+  <text x="28" y="108" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#ffa116">LeetCode &#8212; dns_18</text>
+  <text x="28" y="132" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#e6edf3">Rank 545,892</text>
+  <text x="28" y="152" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8b949e">C++ 281 &#183; C 6 &#183; JavaScript 5</text>
+  <text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8b949e">200 Days Badge 2026</text>
+  <!-- CodeChef -->
+  <text x="310" y="108" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#e6edf3">CodeChef &#8212; dhruv_seth_12</text>
+  <text x="310" y="132" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#e6edf3">1&#9733; &#183; 75 problems solved</text>
+  <text x="310" y="152" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8b949e">9 rated contests in rating graph</text>
+  <text x="310" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8b949e">Starters + Monday Munch</text>
+  <!-- GitHub -->
+  <text x="580" y="108" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#2dd4bf">GitHub &#8212; dns-18</text>
+  <text x="580" y="132" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#e6edf3">175 contributions (Nov 3)</text>
+  <text x="580" y="152" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8b949e">Longest streak: 6 days</text>
+  <text x="580" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8b949e">Pull Shark + Quickdraw</text>
+  <!-- decorative activity line, not a rating series -->
+  <polyline points="28,240 120,228 210,232 300,214 390,218 480,198 570,202 660,182 752,168" fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="752" cy="168" r="6" fill="#f472b6"/>
+  <text x="28" y="275" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8b949e">The line is decorative. Numbers above are from the live profiles, not a contest rating series.</text>
+</svg>
