@@ -157,12 +157,17 @@ AI/ML-based early-warning and rainfall / flood-risk prediction prototype for Sma
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub at a Glance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dns-18&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dns-18&layout=compact&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-</p>
+| | |
+|---|---|
+| Total contributions | **175** (Apr 10, 2024 – present) |
+| Current streak | **0 days** (Nov 3) |
+| Longest streak | **6 days** (Oct 7 – Oct 12, 2025) |
+| Achievements visible on my profile | **Pull Shark, Quickdraw** |
+| Focus | **React, TypeScript, JavaScript, Tailwind CSS** — see Tech Stack above for the full list |
+
+See the full, always-up-to-date graph on my [GitHub profile](https://github.com/dns-18) — it is GitHub's own contribution graph, so it never depends on a third-party image service.
 
 ---
 
@@ -178,13 +183,13 @@ AI/ML-based early-warning and rainfall / flood-risk prediction prototype for Sma
 
 | | |
 |---|---|
-| Total contributions | **165** (Apr 10, 2024 – present) |
-| Current streak | **1 day** (Oct 27) |
+| Total contributions | **175** (Apr 10, 2024 – present) |
+| Current streak | **0 days** (Nov 3) |
 | Longest streak | **6 days** (Oct 7 – Oct 12, 2025) |
 
 See the full, always-up-to-date graph on my [GitHub profile](https://github.com/dns-18) — it is GitHub's own contribution graph, so it never depends on a third-party image service.
 
-> Note: the old activity-graph and trophy images were removed because their public Vercel deployments now return HTTP 402 (deployment paused), which is why they rendered as broken images. No data was lost — the numbers above are from the streak card that still renders.
+> Note: the old activity-graph, trophy, and stats images were removed because their public Vercel deployments return HTTP 402 / 503 (deployment paused / service unavailable), which is why they rendered as broken images. No data was lost — the numbers above are from the streak card that still renders, and the streak card itself is kept.
 
 ---
 
