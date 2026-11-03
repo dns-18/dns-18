@@ -230,6 +230,17 @@ See the full, always-up-to-date graph on my [GitHub profile](https://github.com/
 
 </p>
 
+<p align="center">
+  <img src="assets/coding-activity.svg" alt="Coding Activity - LeetCode, CodeChef and GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dns_18" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/dns_18?ext=contest" alt="LeetCode Contest Rating" />
+</p>
+
+> The custom card above is a static snapshot checked 4 Nov 2026 (LeetCode Rank 545,892; CodeChef 1 star, 75 solved). The LeetCard images below it are live and update automatically. If a live card ever renders broken, the static card above still shows.
+
 ---
 
 ## 🤝 Connect With Me
