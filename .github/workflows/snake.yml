@@ -1,25 +1,35 @@
 name: Generate contribution snake
+
 on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
-    branches: [main]
+    branches:
+      - main
+
 jobs:
   generate:
-    permissions: {contents: write}
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Generate snake
+        uses: Platane/snk@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github_user_name: dns-18
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: output
           build_dir: dist
           commit_message: "chore: update contribution snake"
