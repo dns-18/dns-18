@@ -6,6 +6,10 @@
 </h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2DD4BF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Developer;Problem+Solver;DSA+Learner" alt="Typing animation: Frontend Developer, React Developer, Problem Solver, DSA Learner" />
+</p>
+
+<p align="center">
   <a href="https://github.com/dns-18">
     <img src="https://komarev.com/ghpvc/?username=dns-18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
@@ -240,6 +244,16 @@ See the full, always-up-to-date graph on my [GitHub profile](https://github.com/
 </p>
 
 > The custom card above is a static snapshot checked 4 Nov 2026 (LeetCode Rank 545,892; CodeChef 1 star, 75 solved). The LeetCard images below it are live and update automatically. If a live card ever renders broken, the static card above still shows.
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dns-18/dns-18/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
+> Generated automatically every 6 hours by the snake workflow (see `.github/workflows/snake.yml`). After merging, the workflow runs once on `main` and creates the `output` branch — the image above appears once that first run finishes.
 
 ---
 
