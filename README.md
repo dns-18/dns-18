@@ -1,238 +1,162 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" style="height: 400px; width: 1000px">
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
+<p align="center">
+  <img src="assets/hero.svg" alt="Dhruv Narain Seth — Frontend Developer, CSE Data Science student" />
+</p>
 
-<h3 align="center">
-  Frontend Developer • React Developer • Problem Solver
-</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhruv-seth-95a158327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://my-portfolio-dns-18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/dns_18/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://github.com/dns-18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=dns-18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2DD4BF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Developer;Problem+Solver;DSA+Learner" alt="Typing animation: Frontend Developer, React Developer, Problem Solver, DSA Learner" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/dns-18">
-    <img src="https://komarev.com/ghpvc/?username=dns-18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/dns-18?tab=followers">
-    <img src="https://img.shields.io/github/followers/dns-18?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/dns-18?tab=repositories">
-    <img src="https://img.shields.io/github/stars/dns-18?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Stars" alt="GitHub Stars"/>
-  </a>
-</p>
+---
+
+## About Me
+
+I'm a Computer Science student specialising in Data Science, focused on frontend development with React. I build real, deployed web applications — not just demos — and I care about both clean code and clean UI.
+
+- Building reusable React UI components, and learning backend development step by step (Express + HTTP milestones)
+- Practising Data Structures and Algorithms on LeetCode and CodeChef
+- Working on open-source contributions in JavaScript / TypeScript
+- Open to collaborating on interesting projects
+
+Ask me about **React, JavaScript, frontend development, and UI**.
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 CSE student specializing in **Data Science**
-- 💻 Passionate about building clean, responsive and user-friendly web applications
-- ⚛️ Currently focused on **React & Frontend Development**
-- 🌱 Exploring **Backend Development and Java**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🚀 Currently building **reusable React UI components** and learning backend step by step (Express + HTTP milestones)
-- 🎯 Goal: land a merged open-source PR in JavaScript / TypeScript
-- 🤝 Open to collaborating on interesting projects
-- 💬 Ask me about **React, JavaScript, Frontend Development & UI**
-- 🌐 Check out my **[Portfolio](https://my-portfolio-dns-18.vercel.app/)**
-- ⚡ Fun fact: I care about both **clean code and clean UI** — because why choose one?
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" height="40" alt="Appwrite"/>
-</p>
-
-### 💻 Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-</p>
-
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 📝 <a href="https://github.com/dns-18/AppScribe">AppScribe</a>
+### AppScribe
 
-A full-stack writing/blogging platform with authentication, role-based access, database functionality and file storage.
+A full-stack writing / blogging platform with authentication, role-based access, database functionality, and file storage.
 
-**Tech:** React • Appwrite • Redux Toolkit • Tailwind CSS
+**Tech:** React · Appwrite · Redux Toolkit · Tailwind CSS
 
-<a href="https://github.com/dns-18/AppScribe">View Project →</a>
+[View Repository](https://github.com/dns-18/AppScribe) · [View Live](https://app-scribe-dns.vercel.app/)
 
 </td>
-
 <td width="50%">
 
-### 🛒 <a href="https://github.com/dns-18/shopsphere-ecommerce">ShopSphere</a>
+### ResumeIQ
 
-A responsive e-commerce application with product browsing, search, categories, product details and cart functionality.
+AI resume analysis and career copilot, with real Supabase login / signup and a redesigned post-login app.
 
-**Tech:** React • JavaScript • API • CSS
+**Tech:** React · Vite · Supabase · Tailwind CSS
 
-<a href="https://github.com/dns-18/shopsphere-ecommerce">View Project →</a>
+[View Repository](https://github.com/dns-18/ResumeIQ) · [View Live](https://resume-iq-dns.vercel.app/)
 
 </td>
 </tr>
-
-<tr>
-
-<td width="50%">
-
-### 🏨 <a href="https://github.com/dns-18/StayLuxe">StayLuxe</a>
-
-A modern accommodation/booking focused web application with a responsive user interface.
-
-**Tech:** React • Vite • Tailwind CSS
-
-<a href="https://github.com/dns-18/StayLuxe">View Project →</a>
-
-</td>
-
-<td width="50%">
-
-### 🌐 <a href="https://my-portfolio-dns-18.vercel.app/">My Portfolio</a>
-
-My personal developer portfolio showcasing my projects, skills and frontend work.
-
-**Tech:** HTML • CSS • JavaScript • GSAP
-
-<a href="https://my-portfolio-dns-18.vercel.app/">View Portfolio →</a>
-
-</td>
-
-</tr>
-
 <tr>
 <td width="50%">
 
-### 🧠 <a href="https://github.com/dns-18/ResumeIQ">ResumeIQ</a>
+### My Portfolio
 
-AI resume analysis and career copilot with real Supabase login/signup and a redesigned post-login app.
+My personal developer portfolio, showcasing projects, skills, and frontend work.
 
-**Tech:** React • Vite • Supabase • Tailwind CSS
+**Tech:** HTML · CSS · JavaScript · GSAP
 
-<a href="https://resume-iq-dns.vercel.app/">View Live →</a>
+[View Repository](https://github.com/dns-18/My-Portfolio) · [View Live](https://my-portfolio-dns-18.vercel.app/)
 
 </td>
-
 <td width="50%">
 
-### 🌧️ <a href="https://github.com/dns-18/VarshaNetra">VarshaNetra</a>
+### ShopSphere
 
-AI/ML-based early-warning and rainfall / flood-risk prediction prototype for Smart India Hackathon 2026.
+A responsive e-commerce application with product browsing, search, categories, product details, and cart functionality.
 
-**Tech:** TypeScript • Python • AI/ML
+**Tech:** React · JavaScript · API · CSS
 
-<a href="https://github.com/dns-18/VarshaNetra">View Project →</a>
+[View Repository](https://github.com/dns-18/shopsphere-ecommerce)
 
 </td>
 </tr>
+<tr>
+<td width="50%">
 
+### StayLuxe
+
+A modern accommodation / booking-focused web application with a responsive user interface.
+
+**Tech:** React · Vite · Tailwind CSS
+
+[View Repository](https://github.com/dns-18/StayLuxe)
+
+</td>
+<td width="50%">
+
+### VarshaNetra
+
+AI / ML-based early-warning and rainfall / flood-risk prediction prototype for Smart India Hackathon 2026.
+
+**Tech:** TypeScript · Python · AI / ML
+
+[View Repository](https://github.com/dns-18/VarshaNetra)
+
+</td>
+</tr>
 </table>
 
----
-
-## 📊 GitHub at a Glance
-
-| | |
-|---|---|
-| Total contributions | **175** (Apr 10, 2024 – present) |
-| Current streak | **0 days** (Nov 3) |
-| Longest streak | **6 days** (Oct 7 – Oct 12, 2025) |
-| Achievements visible on my profile | **Pull Shark, Quickdraw** |
-| Focus | **React, TypeScript, JavaScript, Tailwind CSS** — see Tech Stack above for the full list |
-
-See the full, always-up-to-date graph on my [GitHub profile](https://github.com/dns-18) — it is GitHub's own contribution graph, so it never depends on a third-party image service.
+[View all repositories](https://github.com/dns-18?tab=repositories)
 
 ---
 
-## 🔥 Contribution Streak
+## Technical Skills
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dns-18&hide_border=true" alt="GitHub Streak"/>
+Badges below show technologies used in my projects and coursework. They are not proficiency levels.
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,redux&theme=dark" alt="HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS, Redux" />
 </p>
 
----
+**UI Development**
 
-## 📈 Contribution Snapshot
+- shadcn/ui — used in the ResumeIQ post-login redesign
+- Responsive, component-based UI development — used across AppScribe, ResumeIQ, ShopSphere, and StayLuxe
 
-| | |
-|---|---|
-| Total contributions | **175** (Apr 10, 2024 – present) |
-| Current streak | **0 days** (Nov 3) |
-| Longest streak | **6 days** (Oct 7 – Oct 12, 2025) |
+**Backend & Database**
 
-See the full, always-up-to-date graph on my [GitHub profile](https://github.com/dns-18) — it is GitHub's own contribution graph, so it never depends on a third-party image service.
-
-> Note: the old activity-graph, trophy, and stats images were removed because their public Vercel deployments return HTTP 402 / 503 (deployment paused / service unavailable), which is why they rendered as broken images. No data was lost — the numbers above are from the streak card that still renders, and the streak card itself is kept.
-
----
-
-## 🏆 Milestones in Progress
-
-- **Merged PRs** across AppScribe, ResumeIQ, this profile repo, and DevFlow (external, merged by its maintainer)
-- **Achievements earned and visible on my profile:** Pull Shark and Quickdraw (verified on the Achievements tab on Nov 3)
-- **Open-source now:** devFind SEO metadata PR #1288 (open, awaiting maintainer review) and CHT Core contact-type constant — the CHT PR is open and waiting on linking it to its issue, not on new code
-- **Next:** Pair Extraordinaire (co-authored merged PR), Starstruck (16 stars on one repo)
-
----
-
-## 📂 Check Out My Repositories
-
-<p align="center">
-  <a href="https://github.com/dns-18?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,supabase,appwrite&theme=dark" alt="Node.js, Express, MySQL, Supabase, Appwrite" />
 </p>
 
+**Programming & CS Fundamentals**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,git,github,vscode,vercel&theme=dark" alt="C++, Java, Git, GitHub, VS Code, Vercel" />
+</p>
+
+- Data Structures and Algorithms · Object-Oriented Programming · DBMS · Operating Systems
+
+**Developer Tools**
+
+- Git · GitHub · VS Code · Vercel
+
 ---
 
-## 💻 Coding Profiles
+## Problem Solving & Achievements
 
-<p align="center">
-
-<a href="https://leetcode.com/u/dns_18/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<a href="https://www.codechef.com/users/dhruv_seth_12">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
-
-<a href="https://www.hackerrank.com/@sethdhruv927">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-
+<p>
+  <a href="https://leetcode.com/u/dns_18/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/dhruv_seth_12"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.hackerrank.com/@sethdhruv927"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
+
+- **LeetCode (`dns_18`):** Rank 545,892 (checked 4 Nov 2026), C++ 281 · C 6 · JavaScript 5 problems by language, 200 Days Badge 2026. No total solved number is shown here, because the live profile total could not be verified from the profile page alone — see the live LeetCard below for the current count.
+- **CodeChef (`dhruv_seth_12`):** 1 star, 75 problems solved, 9 rated contests in the rating graph.
+- **GitHub achievements visible:** Pull Shark, Quickdraw.
+- **Open source:** DevFlow PR merged by its maintainer; devFind SEO metadata PR #1288 open, awaiting maintainer review; CHT Core PR #11467 open, awaiting linking to its issue.
 
 <p align="center">
   <img src="assets/coding-activity.svg" alt="Coding Activity - LeetCode, CodeChef and GitHub" />
@@ -243,48 +167,68 @@ See the full, always-up-to-date graph on my [GitHub profile](https://github.com/
   <img src="https://leetcard.jacoblin.cool/dns_18?ext=contest" alt="LeetCode Contest Rating" />
 </p>
 
-> The custom card above is a static snapshot checked 4 Nov 2026 (LeetCode Rank 545,892; CodeChef 1 star, 75 solved). The LeetCard images below it are live and update automatically. If a live card ever renders broken, the static card above still shows.
+> The custom card above is a static snapshot checked 4 Nov 2026. The LeetCard images below it are live and update automatically. If a live card ever renders broken, the static card above still shows.
 
 ---
 
-## 🐍 Contribution Snake
+## GitHub Statistics
+
+| | |
+|---|---|
+| Total contributions | **175** (Apr 10, 2024 – present, checked Nov 3) |
+| Current streak | **0 days** (Nov 3) |
+| Longest streak | **6 days** (Oct 7 – Oct 12, 2025) |
+| Achievements visible | **Pull Shark, Quickdraw** |
+| Focus | **React, TypeScript, JavaScript, Tailwind CSS** |
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=dns-18&hide_border=true" alt="GitHub Streak" />
+</p>
+
+See the full, always-up-to-date graph on my [GitHub profile](https://github.com/dns-18) — it is GitHub's own contribution graph, so it never depends on a third-party image service.
+
+> Note: the old activity-graph, trophy, and github-readme-stats images were removed previously because their public Vercel deployments returned HTTP 402 / 503. They are not re-added here, to avoid reintroducing broken images. The text table above and the streak card are kept instead.
+
+---
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dns-18/dns-18/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dns-18/dns-18/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/dns-18/dns-18/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
+</picture>
 
-> Generated automatically every 6 hours by the snake workflow (see `.github/workflows/snake.yml`). After merging, the workflow runs once on `main` and creates the `output` branch — the image above appears once that first run finishes.
+Generated automatically every 6 hours by the snake workflow (`.github/workflows/snake.yml`, `output` branch). Both light and dark variants are generated by that workflow; this section only changes how they are displayed, not the workflow itself.
 
 ---
 
-## 🤝 Connect With Me
+## Currently Learning
+
+- Backend development — Node.js / Express, HTTP fundamentals, step by step
+- Java
+- Modern React development — reusable components, state management with Redux Toolkit
+- Open-source contribution workflow — issues, branches, PRs, and maintainer review
+
+---
+
+## Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/dhruv-seth-95a158327/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://www.instagram.com/dhruv_.seth/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="mailto:sethdhruv927@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/dhruv-seth-95a158327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/dns-18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://my-portfolio-dns-18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/dns_18/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.instagram.com/dhruv_.seth/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:sethdhruv927@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
-
-<h3 align="center">
-  ⚡ Building • Learning • Improving • Repeating
-</h3>
 
 <p align="center">
   <i>Always building something new.</i>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1f6feb&height=120&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1f6feb&height=120&section=footer" alt="Footer" />
 </div>
