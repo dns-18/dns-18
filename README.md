@@ -175,8 +175,8 @@ Badges below show technologies used in my projects and coursework. They are not 
 
 | | |
 |---|---|
-| Total contributions | **175** (Apr 10, 2024 – present, checked Nov 3) |
-| Current streak | **0 days** (Nov 3) |
+| Total contributions | **209** (Apr 10, 2024 – present, checked Nov 6) |
+| Current streak | **3 days** (Nov 3 – Nov 5, checked Nov 6) |
 | Longest streak | **6 days** (Oct 7 – Oct 12, 2025) |
 | Achievements visible | **Pull Shark, Quickdraw** |
 | Focus | **React, TypeScript, JavaScript, Tailwind CSS** |
