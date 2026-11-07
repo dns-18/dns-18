@@ -156,7 +156,7 @@ Badges below show technologies used in my projects and coursework. They are not 
 - **LeetCode (`dns_18`):** Rank 545,892 (checked 4 Nov 2026), C++ 281 · C 6 · JavaScript 5 problems by language, 200 Days Badge 2026. No total solved number is shown here, because the live profile total could not be verified from the profile page alone — see the live LeetCard below for the current count.
 - **CodeChef (`dhruv_seth_12`):** 1 star, 75 problems solved, 9 rated contests in the rating graph.
 - **GitHub achievements visible:** Pull Shark, Quickdraw.
-- **Open source:** DevFlow PR merged by its maintainer; devFind SEO metadata PR #1288 open, awaiting maintainer review; CHT Core PR #11467 open, awaiting linking to its issue.
+- **Open source:** DevFlow PR #16 merged by its maintainer; devFind SEO metadata PR #1288 open, awaiting maintainer review; CHT Core PR #11467 open, awaiting linking to its issue.
 
 <p align="center">
   <img src="assets/coding-activity.svg" alt="Coding Activity - LeetCode, CodeChef and GitHub" />
