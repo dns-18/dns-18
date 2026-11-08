@@ -29,24 +29,60 @@ Ask me about **React, JavaScript, frontend development, and UI**.
 
 ---
 
+## ⭐ Featured Project — AppScribe
+
+<a href="https://app-scribe-dns.vercel.app/"><img src="assets/appscribe.png" alt="AppScribe — blogging platform homepage" /></a>
+
+A full-stack writing / blogging platform — my strongest project. Authentication with role-based access, an Appwrite database with file storage, and a self-hosted rich-text editor. Two feature PRs shipped and merged: a full UI remake, and a self-hosted TinyMCE editor replacing the cloud-key setup.
+
+**Tech:** React · Vite · Appwrite · Redux Toolkit · Tailwind CSS
+
+[View Live](https://app-scribe-dns.vercel.app/) · [View Repository](https://github.com/dns-18/AppScribe)
+
+---
+
+## Open Source Contributions
+
+My next milestone is **3–5 meaningful merged external PRs** — maintainer-merged work in other people's repositories, not commit count. **1 merged so far.**
+
+| Pull request | Repository | Status |
+|---|---|---|
+| [DevFlow #16](https://github.com/Neet2516/DevFlow/pull/16) — fix(graph-engine): avoid mutating DAG dependencies in diff | Neet2516/DevFlow | ✅ Merged by maintainer (Aug 12, 2026) |
+| [devFind #1288](https://github.com/shyamtawli/devFind/pull/1288) — Add SEO metadata | shyamtawli/devFind | 🕐 Open, awaiting maintainer review |
+| [CHT Core #11467](https://github.com/medic/cht-core/pull/11467) — Add CONTACT constant to DOC_TYPES | medic/cht-core | 🔄 Open, maintainer requested changes (Oct 2) — rework decision due Nov 9 |
+| DevFlow #14 — Swagger / OpenAPI docs | Neet2516/DevFlow | 🛠️ Implementation ready locally, PR not yet opened |
+
+---
+
+## GitHub Statistics
+
+| | |
+|---|---|
+| Total contributions | **209** (Apr 10, 2024 – present, checked Nov 6) |
+| Current streak | **3 days** (Nov 3 – Nov 5, checked Nov 6) |
+| Longest streak | **6 days** (Oct 7 – Oct 12, 2025) |
+| Achievements visible | **Pull Shark, Quickdraw** |
+| Focus | **React, TypeScript, JavaScript, Tailwind CSS** |
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dns-18&hide_border=true" alt="GitHub Streak" />
+</p>
+
+See the full, always-up-to-date graph on my [GitHub profile](https://github.com/dns-18) — it is GitHub's own contribution graph, so it never depends on a third-party image service.
+
+> Note: the old activity-graph, trophy, and github-readme-stats images were removed previously because their public Vercel deployments returned HTTP 402 / 503. They are not re-added here, to avoid reintroducing broken images. The text table above and the streak card are kept instead.
+
+---
+
 ## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### AppScribe
-
-A full-stack writing / blogging platform with authentication, role-based access, database functionality, and file storage.
-
-**Tech:** React · Appwrite · Redux Toolkit · Tailwind CSS
-
-[View Repository](https://github.com/dns-18/AppScribe) · [View Live](https://app-scribe-dns.vercel.app/)
-
-</td>
-<td width="50%">
-
 ### ResumeIQ
+
+<a href="https://resume-iq-dns.vercel.app/"><img src="assets/resumeiq.png" alt="ResumeIQ — AI resume analysis landing page" /></a>
 
 AI resume analysis and career copilot, with real Supabase login / signup and a redesigned post-login app.
 
@@ -55,11 +91,11 @@ AI resume analysis and career copilot, with real Supabase login / signup and a r
 [View Repository](https://github.com/dns-18/ResumeIQ) · [View Live](https://resume-iq-dns.vercel.app/)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### My Portfolio
+
+<a href="https://my-portfolio-dns-18.vercel.app/"><img src="assets/portfolio.png" alt="My Portfolio homepage" /></a>
 
 My personal developer portfolio, showcasing projects, skills, and frontend work.
 
@@ -68,6 +104,8 @@ My personal developer portfolio, showcasing projects, skills, and frontend work.
 [View Repository](https://github.com/dns-18/My-Portfolio) · [View Live](https://my-portfolio-dns-18.vercel.app/)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### ShopSphere
@@ -79,8 +117,6 @@ A responsive e-commerce application with product browsing, search, categories, p
 [View Repository](https://github.com/dns-18/shopsphere-ecommerce)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### StayLuxe
@@ -92,6 +128,8 @@ A modern accommodation / booking-focused web application with a responsive user 
 [View Repository](https://github.com/dns-18/StayLuxe)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### VarshaNetra
@@ -117,12 +155,13 @@ Badges below show technologies used in my projects and coursework. They are not 
 **Frontend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,redux&theme=dark" alt="HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS, Redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,redux,vite&theme=dark" alt="HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS, Redux, Vite" />
 </p>
 
 **UI Development**
 
 - shadcn/ui — used in the ResumeIQ post-login redesign
+- GSAP animations — used in My Portfolio
 - Responsive, component-based UI development — used across AppScribe, ResumeIQ, ShopSphere, and StayLuxe
 
 **Backend & Database**
@@ -130,6 +169,8 @@ Badges below show technologies used in my projects and coursework. They are not 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,supabase,appwrite&theme=dark" alt="Node.js, Express, MySQL, Supabase, Appwrite" />
 </p>
+
+- REST APIs — Appwrite / Supabase APIs in AppScribe and ResumeIQ; Express REST routes in StudentMatch (HTTP phase)
 
 **Programming & CS Fundamentals**
 
@@ -156,7 +197,6 @@ Badges below show technologies used in my projects and coursework. They are not 
 - **LeetCode (`dns_18`):** Rank 545,892 (checked 4 Nov 2026), C++ 281 · C 6 · JavaScript 5 problems by language, 200 Days Badge 2026. No total solved number is shown here, because the live profile total could not be verified from the profile page alone — see the live LeetCard below for the current count.
 - **CodeChef (`dhruv_seth_12`):** 1 star, 75 problems solved, 9 rated contests in the rating graph.
 - **GitHub achievements visible:** Pull Shark, Quickdraw.
-- **Open source:** DevFlow PR #16 merged by its maintainer; devFind SEO metadata PR #1288 open, awaiting maintainer review; CHT Core PR #11467 open, awaiting linking to its issue.
 
 <p align="center">
   <img src="assets/coding-activity.svg" alt="Coding Activity - LeetCode, CodeChef and GitHub" />
@@ -168,26 +208,6 @@ Badges below show technologies used in my projects and coursework. They are not 
 </p>
 
 > The custom card above is a static snapshot checked 4 Nov 2026. The LeetCard images below it are live and update automatically. If a live card ever renders broken, the static card above still shows.
-
----
-
-## GitHub Statistics
-
-| | |
-|---|---|
-| Total contributions | **209** (Apr 10, 2024 – present, checked Nov 6) |
-| Current streak | **3 days** (Nov 3 – Nov 5, checked Nov 6) |
-| Longest streak | **6 days** (Oct 7 – Oct 12, 2025) |
-| Achievements visible | **Pull Shark, Quickdraw** |
-| Focus | **React, TypeScript, JavaScript, Tailwind CSS** |
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dns-18&hide_border=true" alt="GitHub Streak" />
-</p>
-
-See the full, always-up-to-date graph on my [GitHub profile](https://github.com/dns-18) — it is GitHub's own contribution graph, so it never depends on a third-party image service.
-
-> Note: the old activity-graph, trophy, and github-readme-stats images were removed previously because their public Vercel deployments returned HTTP 402 / 503. They are not re-added here, to avoid reintroducing broken images. The text table above and the streak card are kept instead.
 
 ---
 
